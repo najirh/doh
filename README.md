@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="assets/doh-logo.png" alt="Department of Health Abu Dhabi" width="120">
+</p>
+
+<h1 align="center">Malaffi Healthcare BI Project</h1>
+
+<p align="center">
+  <strong>Healthcare System Performance & Demand — Power BI Case Study</strong>
+</p>
+
+<p align="center">
+  Turning raw healthcare admission data into a clean analytical model and an executive Power BI dashboard.
+</p>
+
+---
+
+
 # Department of Health Healthcare BI Project
 
 > **Healthcare System Performance & Demand — Power BI Case Study**
